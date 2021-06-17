@@ -46,6 +46,13 @@ export default function Home({
 
 description ="To find out who your stakeholders are, develop a training plan for staff and key stakeholders on BCP and BIA. Ensure your organization manages ambiguity and consistently seeks to drive clarity amongst project stakeholders. Ensure your organization is responsible for supporting multiple stakeholders which include project, programs, operations, and functional organizations. Actively promote a risk aware culture with the values of stewardship, risk awareness and accountability through education and communication to all stakeholders. Organizations that lack effective cybersecurity measures to help manage this change, face breaking the trust of their (internal) customers, stakeholders, and the marketplace while exposing themselves to ever increasing risk. Collaborate and engage with various stakeholders to interpret maturity and the level of control implementation to promote adequately positioned controls and prioritize investments/effort through strong collaboration with Core IT Compliance and Enterprise Risk Management."
 />
+      
+      <Hero
+		
+		headline ="It may be useful to consider further What if?"
+
+description ="Consider deep investing in business continuity, enterprise risk management, internal audit, or compliance. Ensure your organization is responsible for all project documentation, including maintaining technical documents and business requirements. Ensure deployment and security configuration of complex applications throughout the project and secure software development lifecycle."
+/>
 
     </>
   )
