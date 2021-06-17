@@ -55,6 +55,13 @@ description ="To find out who your stakeholders are, develop a training plan for
 description ="Consider deep investing in business continuity, enterprise risk management, internal audit, or compliance. Ensure your organization is responsible for all project documentation, including maintaining technical documents and business requirements. Ensure deployment and security configuration of complex applications throughout the project and secure software development lifecycle."
 />
 
+<Hero
+		
+		headline ="Are the controls effective and fit for purpose?"
+
+description ="When controls are active they drive documentation of processes and risks. Create a comprehensive inventory of risks and controls, and refine your organizations risk lexicon and risk appetite statements. Ensure your organization is assessing the design and effectiveness of internal controls through walkthroughs, sampling/testing of data, and documentation of results. Ensure your organization creates, maintains, and updates a continuity charter that defines the purpose, rules, deliverables, and goals of a Continuity organization. Serve as an enterprise-wide advisor to the organization, the business and helping them design and/or remediate controls weaknesses, using GRC data analytics and monitoring to focus in on key areas. Manage (part of the business and line) in the implementation of, and ongoing compliance with, the enterprise risk management framework which aims to identify, assess and monitor risks and controls. Ensure your organization develops effective internal controls designed to promote adherence with applicable laws, accreditation organization requirements, and federal, state, and private plans with various business department leaders to perform ERM duties such as identifying and assessing risk; developing, monitoring, and testing key controls and mitigations; planning; reporting; and related analysis. The organization partners with business operations to ensure proactive risk/issue identification, establishment of controls and monitoring, effective remediation of issues, appropriate risk/issue awareness and escalation, always-on audit readiness, and securing the achievement of business objectives."
+/>
+
     </>
   )
 }
