@@ -69,6 +69,68 @@ description ="If you manage well, you build relationships and create opportuniti
 />
 
 
+<Hero
+
+headline ="How do you evolve (e.g., creation through a top down executive directive or a bottom up staff initiative)?"
+
+description ="To evolve initiatives, conceive and implement key process improvement initiatives to mitigate strategic risks. Creation and development of (repeatable/automated) analytical solutions and tools to analyze risk portfolios reporting, data management, data interpretation into key observations and trends. Develop experience driving large and complex initiatives from framing the problem, conducting research and analysis to building the business and operational plans through to driving execution to success is required. Ensure your organization supports business partners in identifying, assessing and mitigating risks from business transactions and new initiatives M and A, customer and vendor contracts and new products and services."
+/>
+
+
+<Hero
+
+headline ="Which (access) capabilities are required for carrying out the attack step?"
+
+description ="As identity and access management (IAM) professional you will use the help desk to report accessibility and usability related issues. Invest in the management of project plans (including project timelines, data requirements, specific steps). Ensure your organization has access to extensive training and development resources and tools. Leverage tools/systems to enhance scenario analysis capabilities and partner with quantitative risk analytics and risk teams to develop dashboards which provide key insights into portfolio concentrations and risks. Strong knowledge on at least 4 of the following areas needs to be in place: Cloud Security, network security, and IoT security, security operations, Identity and access management, disaster recovery and incident management, DB security, data security, data protection and recovery, encryption and PKI."
+/>
+<Hero
+	
+headline ="How do you make sense of multiple criteria?"
+
+description ="Manage several projects simultaneously with a sense of urgency. Compare estimated operational risks with criteria established by policy. Ensure your organization has a strong sense of initiative to identify data solutions meeting the ERM and to business needs should independent judgment in methods, techniques and evaluation criteria for obtaining risk reduction objectives. Establish success criteria, metrics, milestones, and timelines for deployment projects and ensure projects remain on track and on time. Ensure your organization develops and maintains the Enterprise Risk Management policies and procedures, identifies standards, performance criteria, internal controls, processes and systems needed, and recommend enhancements to the program as appropriate including assessing and aligning the program with industry standards and practices. "
+/>
+
+
+
+<Hero
+	
+headline ="Who has responsibility for implementing the plan for managing risks?"
+
+description ="Work with svp, erm on incident management activities and business continuity plans. Plan, design, create and execute your organizations Model Risk Management framework. Ensure your organization understands engagement and project planning. Ensure your organization monitors significant risks to ensure they are actively managed and reported. Ensure your organization maintains erm expertise on emerging risks and trends through training and research. "
+/>
+<Hero
+	
+headline ="Do you support decision making by getting feedback and information?"
+
+description ="Develop and implement ERP application information systems security plans and procedures. Ensure your organization participates in leadership and team decision making and associated activities. Information security (info sec) info sec prevents, responds and mitigates cyber risk, protecting yours and client data, and your information management systems. Ensure your organization works with enterprise risk management to develop, maintain, and enforce policies and procedures to ensure the protection of your it assets and the integrity, security, and privacy of its information. Ensure your organization opportunities are based on assigned department, possible examples include organizational structures, business etiquette, interpersonal/conflict resolution/sales/negotiation skills, industry information, products and services and functional responsibilities for various departments. "
+/>
+
+
+
+<Hero
+	
+headline ="Corporate greening through ISO 14001: A rational myth?"
+
+description ="Act as primary liaison with regulatory bodies. Ensure effective communication with employees, supervisors/managers and staff. Ensure your organization performs business analytics and forecasting. Ensure your organization participates and is represented in industry meetings; interacts with subordinates, supervisors, other departments and Operating Units to facilitate safety compliance."
+/>
+
+
+
+<Hero
+	
+headline ="What does a risk management process look like?"
+
+description ="Manage the process of collection, analysis and of all enterprise risk data. Develop experience on security policy, process, guidelines and procedures development. Provide on going thought leadership to shape the Enterprise Risk Management Program. Assure the identification of potential people side risks. Ensure your organization follows the ISO 31000 risk management process: identification, assessment, evaluation, mitigation and monitoring."
+/>
+
+<Hero
+	
+headline ="What are the risks perceived by companies?"
+
+description ="Document minutes, action items, risks and issues and distribute. Ensure your organization is advising on contract status, legal risks, and the legal liabilities. Ensure your organization supports the erm program that is designed to proactively and systematically identify, assess, monitor, report and escalate significant operational risks. Establish the enterprise risk management program framework for the company to identify, assess, mitigate, monitor, test and report on risks faced by the company, consistent with industry best practices. The executive liability team works with (internal) clients to prevent, mitigate, and finance d and o liability and related governance risks by benchmarking, risk modeling, and enterprise risk management (erm) for risk profiles. Work collaboratively with business unit leaders to identify key risks, assess severity of risks, aggregate and prioritize risks, obtain management approval for appropriate risk treatment strategies, and regularly monitor and report residual risks through reporting and both targeted and enterprise-wide risk assessments. Lead and promote the development of an enterprise risk management strategy to support effective identification, assessment, measurement, control, monitoring, and communication of corporate risks, especially those risks having the potential to exceed corporate tolerances and disrupt the achievement of strategic initiatives. "
+/>
+
+
     </>
   )
 }
